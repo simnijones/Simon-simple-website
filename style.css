@@ -1,3 +1,5 @@
+
+
 /* Apply a natural box layout model to all elements */
 * { 
 	-moz-box-sizing: border-box;
@@ -16,7 +18,7 @@ body {
 
 figure {
 	position: relative;
-	float: right;
+	float: center;
 	width: 50%;
 	min-width: 400px;
 	margin-top: -120px;
@@ -118,17 +120,18 @@ h1 {
 	height: 50px;
 	padding: 0 20px;
 	display: block;
-	position: relative;
+	position: left;
 	margin: 0 auto;
-	top: -150px;
+	top: 200px;
 	text-align: center;
 }
 
 .slider {
 	width: 400px;
 	display: block;
-	position: relative;
+	position: center;
 	margin: 0 auto;
+	margin-top: 80px;
 	left: -30px; /* hacky */
 	top: -100px;
 }

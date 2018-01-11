@@ -1,6 +1,6 @@
 [
   {
-    "date": "27 Oct",
+    "date": "27-Oct",
     "daily_stories": 121,
     "Anti_Clinton": 85, 
     "Pro_Clinton": 0, 
@@ -8,7 +8,7 @@
     "Pro_Trump": 5 
   },
   {
-    "date": "28 Oct",
+    "date": "28-Oct",
     "daily_stories": 85,
     "Anti_Clinton": 51, 
     "Pro_Clinton": 19, 
@@ -16,7 +16,7 @@
     "Pro_Trump": 5 
   },
   {
-    "date": "29 Oct",
+    "date": "29-Oct",
     "daily_stories": 35,
     "Anti_Clinton": 19, 
     "Pro_Clinton": 9, 
@@ -24,7 +24,7 @@
     "Pro_Trump": 1 
   },
   {
-    "date": "30 Oct",
+    "date": "30-Oct",
     "daily_stories": 17,
     "Anti_Clinton": 6, 
     "Pro_Clinton": 7, 
@@ -32,7 +32,7 @@
     "Pro_Trump": 0  
   },
   {
-    "date": "31 Oct",
+    "date": "31-Oct",
     "daily_stories": 25,
     "Anti_Clinton": 10, 
     "Pro_Clinton": 3, 
@@ -40,7 +40,7 @@
     "Pro_Trump": 5 
   },
   {
-    "date": "1 Nov",
+    "date": "01-Nov",
     "daily_stories": 34,
     "Anti_Clinton": 15, 
     "Pro_Clinton": 5, 
@@ -48,7 +48,7 @@
     "Pro_Trump": 4 
   },
   {
-    "date": "2 Nov",
+    "date": "02-Nov",
     "daily_stories": 30,
     "Anti_Clinton": 6, 
     "Pro_Clinton": 7, 
@@ -56,7 +56,7 @@
     "Pro_Trump": 0 
   },
   {
-    "date": "3 Nov",
+    "date": "03-Nov",
     "daily_stories": 11,
     "Anti_Clinton": 9, 
     "Pro_Clinton": 0, 
@@ -64,7 +64,7 @@
     "Pro_Trump": 1 
   },
   {
-    "date": "4 Nov",
+    "date": "04-Nov",
     "daily_stories": 22,
     "Anti_Clinton": 19, 
     "Pro_Clinton": 0, 
@@ -72,7 +72,7 @@
     "Pro_Trump": 1 
   },
   {
-    "date": "5 Nov",
+    "date": "05-Nov",
     "daily_stories": 6,
     "Anti_Clinton": 3, 
     "Pro_Clinton": 0, 
@@ -80,7 +80,7 @@
     "Pro_Trump": 0 
   },
   {
-    "date": "6 Nov",
+    "date": "06-Nov",
     "daily_stories": 10,
     "Anti_Clinton": 8, 
     "Pro_Clinton": 1, 
@@ -88,7 +88,7 @@
     "Pro_Trump": 0 
   },
   {
-    "date": "7 Nov",
+    "date": "07-Nov",
     "daily_stories": 9,
     "Anti_Clinton": 7, 
     "Pro_Clinton": 0, 

@@ -1,3 +1,21 @@
+/**
+*
+*
+*
+*	NOTES:
+*		[1] Slider could be improved. No displayed limits. Values are hidden. Etc.
+*		[2] This chart's API is restricted and makes assumptions. E.g., legend entries provided to 'rose' and 'legend' are the same.
+*
+*
+*
+*	@author Kristofer Gryte. http://www.kgryte.com
+*
+*
+*/
+
+
+
+
 var Chart = {};
 
 Chart.rose = function() {
@@ -371,3 +389,5 @@ Chart.slider = function( minVal, maxVal, step ) {
 
 
 }; // end FUNCTION slider()
+
+
